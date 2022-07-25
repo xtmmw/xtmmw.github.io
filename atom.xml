@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xtmmw.github.io</id>
+    <title>小田妙妙屋</title>
+    <updated>2022-07-25T07:16:31.137Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xtmmw.github.io"/>
+    <link rel="self" href="https://xtmmw.github.io/atom.xml"/>
+    <subtitle>康康你的</subtitle>
+    <logo>https://xtmmw.github.io/images/avatar.png</logo>
+    <icon>https://xtmmw.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 小田妙妙屋</rights>
+</feed>
